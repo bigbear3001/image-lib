@@ -5,6 +5,15 @@
 	<groupId>com.perhab</groupId>
 	<artifactId>image-lib</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+
+	<licenses>
+		<license>
+			<name>The Apache Software License, Version 2.0</name>
+			<url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+			<distribution>repo</distribution>
+		</license>
+	</licenses>
+
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 	</properties>
@@ -33,11 +42,6 @@
 			<artifactId>xmlgraphics-commons</artifactId>
 			<version>2.0.1</version>
 		</dependency>
-		<!-- dependency>
-			<groupId>org.apache.xmlgraphics</groupId>
-			<artifactId>batik-codec</artifactId>
-			<version>1.8</version>
-		</dependency -->
 		<dependency>
 			<groupId>org.projectlombok</groupId>
 			<artifactId>lombok</artifactId>
