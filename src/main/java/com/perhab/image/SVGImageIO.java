@@ -93,7 +93,7 @@ public class SVGImageIO {
 	 * Runtime exception in case there is an error transcoding the SVG into an image.
 	 * @author bigbear3001
 	 */
-	private static class SVGTranscoderException extends RuntimeException {
+	public static class SVGTranscoderException extends RuntimeException {
 
 		/**
 		 * unique serialization version id.
