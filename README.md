@@ -1,7 +1,7 @@
 # image-lib
 Image lib for transcoding SVGs into java.awt.Image
 
-The idea is to have a minified library to enable you tu use SVG as images in your Swing / AWT project.
+The idea is to have a minified library to enable you to use SVG as images in your Swing / AWT project.
 
 #use
 If you want to use the minified version (currently still 3,2MB) add the following dependency to your project
